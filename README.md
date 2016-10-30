@@ -1,8 +1,9 @@
 # mycode
-Kumpulan kode kode program By ArdieXJocong
-Email : ardiejocong@gmail.com
-Handpone / WA : 085694239476 
-Facebook : 
+Kumpulan kode kode program By ArdieXJocong <br>
+Email : ardiejocong@gmail.com <br>
+Handpone / WA : 085694239476 <br>
+Facebook : https://web.facebook.com/ardiejocong <br>
+My Profession : Web Developer
 
 # Netbeans Tips 
 ------------------------ <br>
