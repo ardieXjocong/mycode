@@ -1,5 +1,8 @@
 # mycode
-Kumpulan kode kode program
+Kumpulan kode kode program By ArdieXJocong
+Email : ardiejocong@gmail.com
+Handpone / WA : 085694239476 
+Facebook : 
 
 # Netbeans Tips 
 ------------------------ <br>
@@ -11,4 +14,4 @@ CTRL + C = Create Comment // <br>
 ALT + SHIFT + F = Merapihkan Source Code <br>
 CTRL + SHFIT + Down = Duplicate Line / Copy Line <br>
 ALT + SHIFT + Enter = Full Screen View <br>
-------------------------
+------------------------ <br>
