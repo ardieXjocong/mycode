@@ -2,13 +2,13 @@
 Kumpulan kode kode program
 
 # Netbeans Tips 
-------------------------
-SHIFT + F6 = Running Project 
-F11 = Clean and Build
-ALT + Enter = Collapse Source Code 
-CTRL + / = Create Comment //
-CTRL + C = Create Comment // 
-ALT + SHIFT + F = Merapihkan Source Code 
-CTRL + SHFIT + Down = Duplicate Line / Copy Line
-ALT + SHIFT + Enter = Full Screen View
+------------------------ <br>
+SHIFT + F6 = Running Project <br>
+F11 = Clean and Build <br>
+ALT + Enter = Collapse Source Code <br> 
+CTRL + / = Create Comment // <br>
+CTRL + C = Create Comment // <br>
+ALT + SHIFT + F = Merapihkan Source Code <br>
+CTRL + SHFIT + Down = Duplicate Line / Copy Line <br>
+ALT + SHIFT + Enter = Full Screen View <br>
 ------------------------
